@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\bin\Debug\net7.0\Task2.exe
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\bin\Debug\net7.0\Task2.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\bin\Debug\net7.0\Task2.dll
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\bin\Debug\net7.0\Task2.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\obj\Debug\net7.0\Task2.dll
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\obj\Debug\net7.0\refint\Task2.dll
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\obj\Debug\net7.0\Task2.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\учёба\Учёба\3 курс Знакомство со специализациями(языками программирования)\Семинары\Урок 7. Рекурсия\intermediate_certification\Task2\obj\Debug\net7.0\ref\Task2.dll
